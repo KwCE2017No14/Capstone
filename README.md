@@ -8,11 +8,12 @@ Youtube link : https://www.youtube.com/watch?v=wY4boisWBzA&t=59s
 ![System](./Image/system.png)
 
 <h3>10-20 System</h3>
- - FP1, FP2, CZ 3곳에 전극을 부착하여 EEG 신호를 확인한다
+ - FP1, FP2, CZ 3곳에 전극을 부착하여 EEG 신호를 확인한다<br><br>
 
 ![Method](./Image/method.PNG)
 
 <h3><b>실험자 주의사항</b></h3>
+
  - 6시간 이상의 숙면을 취한 채로 실험에 임한다.
  - 실험 당일 카페인 음료를 섭취하지 않은 채로 실험에 임한다.
  - 동영상 시청 중에는 최대한 움직이지 않는 상태로 동영상을 시청한다.
