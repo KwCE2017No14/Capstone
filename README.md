@@ -8,6 +8,7 @@ Youtube link : https://www.youtube.com/watch?v=wY4boisWBzA&t=59s
 ![System](./Image/system.png)
 
 <h3>10-20 System</h3>
+
  - FP1, FP2, CZ 3곳에 전극을 부착하여 EEG 신호를 확인한다<br><br>
 
 ![Method](./Image/method.PNG)
